@@ -1,6 +1,7 @@
 /* Common styles */
 *{
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .flex-container{
     display: flex;
